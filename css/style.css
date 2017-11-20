@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #f8f9f9;
+    background-image: url('../images/image1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    position: absolute;
+    top: 30%;
+    color: #fff;
+}
+
+.container h1 {
+    font-size: 3em;
+}
